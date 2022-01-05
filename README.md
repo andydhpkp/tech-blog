@@ -13,7 +13,7 @@ A full stack application where users can create an account and use it to create 
 
 
 ## Deployment
-https://rocky-fjord-26704.herokuapp.com/
+https://infinite-oasis-16709.herokuapp.com/
 
 ## Installation
 
